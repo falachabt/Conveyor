@@ -1,5 +1,3 @@
-Here's the complete README.md for your project:
-
 # 🤖 Conveyor Belt Object Detection and Sorting System
 
 ![System Banner](https://via.placeholder.com/1200x300/0d1117/0d1117?text=conveyor)
