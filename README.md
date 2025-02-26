@@ -1,3 +1,5 @@
+Here's the complete README.md for your project:
+
 # 🤖 Conveyor Belt Object Detection and Sorting System
 
 ![System Banner](https://via.placeholder.com/1200x300/0d1117/0d1117?text=conveyor)
@@ -130,7 +132,7 @@ Arduino Connections:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/falachabt/Conveyor.git
    cd <repository-folder>
    ```
 
@@ -291,4 +293,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-*Made with ❤️ by [Your Organization/Name]*
+*Made with ❤️ by benny tenezeu at icam*
